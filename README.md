@@ -1,5 +1,5 @@
 
-Hi , Im Yasir! I'm a software 
+Hi , Im Yasir! I'm a software developer
 
 - 🔭 I’m currently working on ... Project called Bridge Good that helps develpers in Okaland,Ca to find a workplace to work in.
 - 🌱 I’m currently learning ... How to apply animantion on my project.
