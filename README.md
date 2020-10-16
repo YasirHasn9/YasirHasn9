@@ -6,3 +6,4 @@
 - I’m looking to collaborate on ... anything that makes people's lives easier.
 # You can find me around the world 🌍
 <a href="">LinkedIn: Yasir Hamm </a>
+*** note ***
