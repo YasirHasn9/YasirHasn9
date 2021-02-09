@@ -1,8 +1,13 @@
-
-<header>
-  <h1 align="center">Hi , Im Yasir! I'm a software Engineer</h1>
+<header align="center">
+  <nav>
+    <ul>
+      <li><a>LinkedIn</a></li>
+      <li><a>Twitter</a></li>
+    </ul>
+  </nav>
+  <h1> Hi, Im Yasir! </h1><br />
+  <h2> I'm a Software Lover/Coder/Developer/Engineer </h2>
+  <h3> _Welcome to my **kingdom**,<br /> Where I learnt, mess and fix everything_ </h3>
 </header>
 
-
-_Welcome to my **kingdom**, where I learnt, mess and fix everything_. 
 
