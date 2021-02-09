@@ -1,4 +1,4 @@
-<header align="center">
+<header align="center" display="flex">
   <nav>
     <ul>
       <li><a>LinkedIn</a></li>
