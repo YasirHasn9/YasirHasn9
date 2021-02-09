@@ -1,4 +1,10 @@
-<header align="center" display="flex">
+```css
+header {
+background-color: red;
+color:#333;
+```
+
+<header>
   <nav>
     <ul listStyle="none">
       <li><a>LinkedIn</a></li>
