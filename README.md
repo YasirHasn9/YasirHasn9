@@ -1,15 +1,8 @@
-<style>
-a {
-  color:red
-}
-</style>
 
 <header class="header">
 <nav>
-<ul >
-<li><a href="">LinkedIn</a></li>
-<li><a href=""></a>Twitter</li>
-</ul>
+*<a href="">LinkedIn</a></li>
+*<a href=""></a>Twitter</li>
 </nav>
   Hi, Im Yasir! <br />
   I'm a Software Lover/Coder/Developer/Engineer 
