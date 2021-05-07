@@ -11,4 +11,5 @@ You can found me around the world :earth_asia:
 - <a href="https://www.linkedin.com/in/yasirhasn9/">LinkedIn</a>
 - <a href="https://twitter.com/HammYasir">Twitter</a>
 - <a href="https://codepen.io/yasirhasn9">CodePen</a>
-Also, you can find me on <a href="https://www.instagram.com/_yasirh/">instagram</a> where I post places I went, mostley hikinh 
+Also, you can find me on <a href="https://www.instagram.com/_yasirh/">instagram</a> where I post places I went, mostley hiking.
+
