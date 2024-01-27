@@ -7,7 +7,7 @@
 </header>
 
 
-You can found me find the world :earth_asia:
+You can find me here
 - <a href="https://www.linkedin.com/in/yasirhasn9/">LinkedIn</a>
 - <a href="https://twitter.com/HammYasir">Twitter</a>
 - <a href="https://codepen.io/yasirhasn9">CodePen</a>
